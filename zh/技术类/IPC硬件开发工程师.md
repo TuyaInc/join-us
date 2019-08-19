@@ -15,4 +15,4 @@
 - 5、可以熟练使用硬件测试工具，如万用表，示波器，频率计等。
 - 6、工作认真踏实，有良好的团队合作精神和沟通能力，有很优秀的英文资料阅读的能力，有较强的学习能力。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-IPC硬件开发工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-IPC硬件开发工程师-来自GitHub">立即申请</a>

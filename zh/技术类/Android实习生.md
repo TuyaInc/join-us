@@ -17,4 +17,4 @@
 - 3.本科学历，2020届毕业生；
 - 4.全职实习至少3个月以上。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-Android实习生>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-Android实习生-来自GitHub">立即申请</a>

@@ -17,4 +17,4 @@
 - 3、具有较强的计划、协调、沟通、领导和决策能力；
 - 4、学习能力强、逻辑性强，喜欢互联网简单、激情、全力以赴、客户第一的价值观；
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-IPC商务经理>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-IPC商务经理-来自GitHub">立即申请</a>

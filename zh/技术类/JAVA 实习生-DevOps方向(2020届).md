@@ -15,4 +15,4 @@
 - 6、能长期并全职实习。
 - DevOps团队是一支研发团队,专注于涂鸦全球化IoT平台自动化运维和平台建设，涂鸦在全球拥有多个数据中心(同时部署于阿里云、腾讯云、AWS、Azure),通过技术平台支持全球服务部署、发布、审计、维护。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-JAVA 实习生-DevOps方向(2020届)>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-JAVA 实习生-DevOps方向(2020届)-来自GitHub">立即申请</a>

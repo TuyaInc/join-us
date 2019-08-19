@@ -19,4 +19,4 @@
 - 这里有AI业务落地,我们是人工智能背后的“人工”,早上跟Google开会,下午跟Amazon开会等,"人工"智能,无国界.
 - 说改变世界的都是扯...犊...子，我们就是撸袖子干,Java岗位P5-P8都有的哇!欢迎投递!
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-Java开发工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-Java开发工程师-来自GitHub">立即申请</a>

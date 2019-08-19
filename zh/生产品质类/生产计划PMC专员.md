@@ -20,4 +20,4 @@
 - 3、对工作认真、负责，协调能力强，主动性强，能够独立处理突发事件；
 - 4、对数据敏感，具备较强的数据统计分析能力，熟练操作常规的excel统计函。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-生产计划PMC专员>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-生产计划PMC专员-来自GitHub">立即申请</a>

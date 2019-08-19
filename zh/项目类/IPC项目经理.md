@@ -12,4 +12,4 @@
 - 3、对于交付质量管理有自己的认知，能积极推动优化项目管理流程；
 - 4、3年以上工作经验。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-IPC项目经理>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-IPC项目经理-来自GitHub">立即申请</a>

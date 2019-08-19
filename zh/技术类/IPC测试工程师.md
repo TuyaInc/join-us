@@ -18,4 +18,4 @@
 - 5.熟悉Shell，Python，JAVA等至少一种编程语言，具有1年以上自动化测试经验优先；
 - 6.具备较强的自我驱动能力，乐于投身智能产品的测试工作。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-IPC测试工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-IPC测试工程师-来自GitHub">立即申请</a>

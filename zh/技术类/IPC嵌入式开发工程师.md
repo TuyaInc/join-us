@@ -17,4 +17,4 @@
 - 5、熟悉音视频技术和软件开发，有H.264编解码经验优先；&nbsp;
 - 6、工作认真踏实，有良好的团队合作精神和沟通能力，有较强的学习能力。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-IPC嵌入式开发工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-IPC嵌入式开发工程师-来自GitHub">立即申请</a>

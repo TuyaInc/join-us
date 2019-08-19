@@ -10,4 +10,4 @@
 - 2、具备ToB服务产品化的思路和资源整合的能力，在营收导向的运营方向上有成功案例；
 - 3、强烈的结果导向意识和优秀的团队协作能力、抗压能力。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-SaaS运营专家>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-SaaS运营专家-来自GitHub">立即申请</a>

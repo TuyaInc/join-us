@@ -14,4 +14,4 @@
 - 4、熟悉常用的存储系统，如 Redis、 MySQL 等；
 - 5、熟悉 Github 开源 Erlang 项目如 RabbitMQ、Riak 等项目优先，有 Github 开源项目优先。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-Erlang 资深研发工程师-核心底层服务>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-Erlang 资深研发工程师-核心底层服务-来自GitHub">立即申请</a>

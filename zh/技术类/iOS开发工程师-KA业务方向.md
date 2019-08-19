@@ -24,4 +24,4 @@
 - 4）性能优化项目经验；
 - 5）工程化开发经验；
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-iOS开发工程师-KA业务方向>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-iOS开发工程师-KA业务方向-来自GitHub">立即申请</a>

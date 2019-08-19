@@ -16,4 +16,4 @@
 - 5、具有较强的学习能力和问题分析能力，严谨的工作态度，良好的团队合作精神、沟通能力；
 - 6、有实际nxp/silicion labs zigbee开发经验者优先考虑。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-高级ZigBee开发工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-高级ZigBee开发工程师-来自GitHub">立即申请</a>

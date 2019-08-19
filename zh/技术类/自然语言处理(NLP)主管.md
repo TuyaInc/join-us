@@ -16,4 +16,4 @@
 - 6. 有增强学习、深度增强学习经验者优先；
 - 7. 在顶级会议或期刊有论文发表者优先；
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-自然语言处理(NLP)主管>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-自然语言处理(NLP)主管-来自GitHub">立即申请</a>

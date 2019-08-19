@@ -14,4 +14,4 @@
 - 5、较好的英语阅读能力；
 - 6、有海思/安霸/TI平台经验者优先。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-ISP开发工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-ISP开发工程师-来自GitHub">立即申请</a>

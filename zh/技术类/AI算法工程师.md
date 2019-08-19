@@ -15,4 +15,4 @@
 - 7. 熟练的英⽂⽂献阅读能⼒。
 - 8. 具备较强的团队协作能⼒、沟通能⼒、责任意识。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-AI算法工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-AI算法工程师-来自GitHub">立即申请</a>

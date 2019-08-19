@@ -15,4 +15,4 @@
 - 5.有强烈的责任心和团队精神，善于沟通和合作；
 - 6.有IoT相关应用开发经验优先；
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-iOS资深开发工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-iOS资深开发工程师-来自GitHub">立即申请</a>

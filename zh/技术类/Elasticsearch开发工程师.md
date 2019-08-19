@@ -16,4 +16,4 @@
 - 5、学习能力强，善于独立思考，思维活跃，对技术有强烈激情。
 - 有机会接触千亿级海量数据的离线和实时的数据处理，涉及Java,Spark,Hive,Spark streaming,Hbase,Elasticsearch,Flink等大数据的前沿技术和多云的统一架构。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-Elasticsearch开发工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-Elasticsearch开发工程师-来自GitHub">立即申请</a>

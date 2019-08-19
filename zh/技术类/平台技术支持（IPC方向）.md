@@ -19,4 +19,4 @@
 - 6.四级及以上英语能力，胜任日常沟通及书面交流；
 - 7.抗压能力强，主动服务意识强，自我驱动型；
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-平台技术支持（IPC方向）>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-平台技术支持（IPC方向）-来自GitHub">立即申请</a>

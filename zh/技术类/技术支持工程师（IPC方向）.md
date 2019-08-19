@@ -13,4 +13,4 @@
 - 3、良好的沟通能力, 乐观的心态, 能承受一定的工作压力。
 - 4、至少四级及以上的英语水平 可以日常及书面交流
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-技术支持工程师（IPC方向）>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-技术支持工程师（IPC方向）-来自GitHub">立即申请</a>

@@ -17,4 +17,4 @@
 - 5.&nbsp;优秀的自驱力
 - 6.&nbsp;拥有较强的责任心，良好的团队协作能力
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-APP高级产品经理>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-APP高级产品经理-来自GitHub">立即申请</a>

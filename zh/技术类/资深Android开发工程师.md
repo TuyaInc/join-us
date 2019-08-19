@@ -18,4 +18,4 @@
 - 8）熟悉移动网络通信机制，对Socket通信，TCP/IP和HTTP有较深刻理解和经验，有网络编程经验者或Java&nbsp;Server端开发经验者优先；
 - 9）有团队精神，良好的抗压能力，心态积极，能主动融入团队；
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-资深Android开发工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-资深Android开发工程师-来自GitHub">立即申请</a>

@@ -14,4 +14,4 @@
 - 2、熟练运用PLM、ERP、office等办公软件。
 - 3、良好的沟通能力与抗压能力，严谨仔细，积极主动。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-bom工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-bom工程师-来自GitHub">立即申请</a>

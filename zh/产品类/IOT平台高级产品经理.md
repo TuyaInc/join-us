@@ -14,4 +14,4 @@
 - 3.产品逻辑能力强，能够在具体执行的项目中进行体现和举例
 - 4.独立负责过长周期、多次迭代的重要产品线，能够针对商业计划良好地拆分版本节奏，提升产品效能
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-IOT平台高级产品经理>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-IOT平台高级产品经理-来自GitHub">立即申请</a>

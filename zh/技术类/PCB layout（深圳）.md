@@ -18,4 +18,4 @@
 - 8、精通Altium Designer 09、Protel99SE；
 - 9、熟练使用Allegro、PADS3、Auto CAD 2005
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-PCB layout（深圳）>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-PCB layout（深圳）-来自GitHub">立即申请</a>

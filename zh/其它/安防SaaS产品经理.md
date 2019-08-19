@@ -14,4 +14,4 @@
 - 3，能够用英语进行基本沟通，编写文档。
 - 4，互联网行业或者安防行业经验，认同创业文化，拥抱变化。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-安防SaaS产品经理>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-安防SaaS产品经理-来自GitHub">立即申请</a>

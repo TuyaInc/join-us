@@ -25,4 +25,4 @@
 - · Ability to manage multiple priorities and make things happen in a fast-paced, dynamic environment; strong bias for action
 - · Proficiency in English verbal &amp; written
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-Business Development>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-Business Development-来自GitHub">立即申请</a>

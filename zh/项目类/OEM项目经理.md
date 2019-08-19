@@ -15,4 +15,4 @@
 - 3、熟悉整机产品的项目管理流程、生产流程、质量控制方法、风险控制技术、相关认证知识；
 - 4、有产品sense，关注细节，苛求完美，具备良好的沟通能力，协作能力，能承担较大的工作压力；
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-OEM项目经理>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-OEM项目经理-来自GitHub">立即申请</a>

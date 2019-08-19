@@ -19,4 +19,4 @@
 - 5、了解电路原理、电路设计中pcb的布局、布线对产品可靠性的影响
 - 6、具备良好的责任心和主观能动性，很强的学习能力和总结分享能力；
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-DFM工程师（PCBA方向）>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-DFM工程师（PCBA方向）-来自GitHub">立即申请</a>

@@ -16,4 +16,4 @@
 - 5.需全职实习，至少实习3个月以上；
 - 6.实习表现优异可转正。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-iOS实习生>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-iOS实习生-来自GitHub">立即申请</a>

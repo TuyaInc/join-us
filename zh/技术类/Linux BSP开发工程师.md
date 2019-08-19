@@ -17,4 +17,4 @@
 - 3.&nbsp;&nbsp;电子、通信、计算机、控制、软件、机电等相关专业，本科及以上学历，英语4级以上；
 - 4.&nbsp;&nbsp;了解ARM、MCU、MIPS等CPU体系结构之一，掌握汇编、C、C++、Java等编程语言之一，理解编程风格。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-Linux BSP开发工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-Linux BSP开发工程师-来自GitHub">立即申请</a>

@@ -25,4 +25,4 @@
 - ·&nbsp;Marketing background preferred
 - Proficiency in English &amp; Chinese verbal &amp; written
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName- Business Development Coordinator >立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历- Business Development Coordinator -来自GitHub">立即申请</a>

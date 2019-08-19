@@ -17,4 +17,4 @@
 - 6、关注细节，苛求完美，具备良好的沟通能力，协作能力，能承担较大的工作压力。
 - 注：希望现场面试能提供案例文档，可能会就部分细节进行讨论。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-ERP资深产品经理>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-ERP资深产品经理-来自GitHub">立即申请</a>

@@ -19,4 +19,4 @@
 - * 熟悉一门非前端的语言 如: Java/PHP/Python/Ruby 等，并有实践经验
 - * 熟悉 linux/shell；
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-资深前端开发工程师（node.js）>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-资深前端开发工程师（node.js）-来自GitHub">立即申请</a>

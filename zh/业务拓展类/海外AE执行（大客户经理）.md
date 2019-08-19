@@ -16,4 +16,4 @@
 - 3、熟悉物联网行业优先；
 - 4、 具备良好的沟通能力，团队协作能力，责任心强，能承担较大的工作压力；
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-海外AE执行（大客户经理）>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-海外AE执行（大客户经理）-来自GitHub">立即申请</a>

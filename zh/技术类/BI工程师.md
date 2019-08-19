@@ -17,4 +17,4 @@
 - 6、有良好的沟通能力，善于主动思考和行动，有极强的责任心和自驱力。
 - 有机会接触千亿级海量数据的离线和实时的数据处理，涉及Java,Spark,Hive,Spark streaming,Hbase,Elasticsearch,Flink等大数据的前沿技术和多云的统一架构。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-BI工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-BI工程师-来自GitHub">立即申请</a>

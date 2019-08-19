@@ -17,4 +17,4 @@
 - 5、熟悉电子类产品、有硬件背景、智能家居背景等优先；
 - 6、适应能力强，抗压性强，可接受海外大客户沟通会议的时差。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-KA客户服务运营>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-KA客户服务运营-来自GitHub">立即申请</a>

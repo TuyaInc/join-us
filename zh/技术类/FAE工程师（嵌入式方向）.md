@@ -17,4 +17,4 @@
 - 5、良好的沟通能力及自学能力，能够承担工作压力，富有团队合作精神，适应出差
 - 6、至少四级及以上的英语水平，可以日常及书面交流。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-FAE工程师（嵌入式方向）>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-FAE工程师（嵌入式方向）-来自GitHub">立即申请</a>

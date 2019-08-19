@@ -17,4 +17,4 @@
 - 5、熟悉高并发网络事件驱动框架比如libevent/libuv/ACE,熟悉nginx；
 - 6、具有良好而规范的编程习惯和文档编写习惯,较好的沟通表达能力和团队合作精神。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-C/C++开发工程师—视频网络方向>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-C/C++开发工程师—视频网络方向-来自GitHub">立即申请</a>

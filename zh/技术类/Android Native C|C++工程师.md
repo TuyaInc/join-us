@@ -15,4 +15,4 @@
 - 4. 对用户体验敏感，有强烈的求知欲，对前沿技术感兴趣并能跟进；&nbsp;
 - 5. 要求有良好的抽象思维能力、归纳能力、逻辑分析能力、语言表达及沟通能力、组织协调能力，能独立承担攻关任务；
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-Android Native C/C++工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-Android Native C/C++工程师-来自GitHub">立即申请</a>

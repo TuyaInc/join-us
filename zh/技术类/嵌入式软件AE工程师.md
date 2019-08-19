@@ -12,4 +12,4 @@
 - 4.&nbsp;了解Linux系统硬件设备外设驱动开发优先；
 - 5.&nbsp;有技术支持经验，或智能硬件产品开发经验优先。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-嵌入式软件AE工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-嵌入式软件AE工程师-来自GitHub">立即申请</a>

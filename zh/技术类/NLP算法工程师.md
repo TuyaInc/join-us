@@ -20,4 +20,4 @@
 - （5）有带领团队项目开发经验者优先；
 - （6）有参与过亚马逊echo、Google Home、天猫精灵等国内外智能音箱NLP/NLU方向者优先；
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-NLP算法工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-NLP算法工程师-来自GitHub">立即申请</a>

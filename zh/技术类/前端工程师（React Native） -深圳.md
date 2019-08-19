@@ -15,4 +15,4 @@
 - 5.&nbsp;熟练使用&nbsp;git、github、linux&nbsp;等工具;
 - 6.&nbsp;有良好的编码习惯,&nbsp;能够编写清晰,&nbsp;易于维护的代码
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-前端工程师（React Native） -深圳>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-前端工程师（React Native） -深圳-来自GitHub">立即申请</a>

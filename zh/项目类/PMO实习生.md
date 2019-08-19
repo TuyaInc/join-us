@@ -17,4 +17,4 @@
 - 3、良好的理解能力和沟通能力，积极主动，服务意识强；
 - 4、需全职工作，至少连续实习3个月以上；
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-PMO实习生>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-PMO实习生-来自GitHub">立即申请</a>

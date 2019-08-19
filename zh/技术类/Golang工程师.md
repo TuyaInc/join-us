@@ -17,4 +17,4 @@
 - 中间件团队专注于提升涂鸦全球化IoT平台能力,研发改进:数据脱敏合规、全球跨域RPC、分布式内存数据库、海量消息、时序数据库、全球跨域数据同步等IoT场景中间件.
 - 不定期组织稳定性对抗演习,红方(研发团队)在蓝方(测开或SRE)停止服务器、Redis、数据库(根据业务场景设定)的情况下保持中间件的可用性,欢迎喜欢挑战的朋友入伙！
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-Golang工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-Golang工程师-来自GitHub">立即申请</a>

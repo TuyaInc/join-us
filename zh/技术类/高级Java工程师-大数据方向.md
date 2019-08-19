@@ -17,4 +17,4 @@
 - 5、有过Hbase和Elasticsearch和Flink的开发经验，对这三者有一个深入研究者优先。
 - 有机会接触千亿级海量数据的离线和实时的数据处理，涉及Java,Spark,Hive,Spark streaming,Hbase,Elasticsearch,Elink等大数据的前沿技术和多云的统一架构。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-高级Java工程师-大数据方向>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-高级Java工程师-大数据方向-来自GitHub">立即申请</a>

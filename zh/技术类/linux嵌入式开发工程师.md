@@ -13,4 +13,4 @@
 - 4、熟练掌握C/C++语言，有MTK、Amlogic平台开发经验者优先；
 - 5、有DLNA、airplay、Alexa、Dureos音响开发、语音交互开发经验者优先
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-linux嵌入式开发工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-linux嵌入式开发工程师-来自GitHub">立即申请</a>

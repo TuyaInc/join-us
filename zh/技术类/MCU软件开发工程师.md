@@ -15,4 +15,4 @@
 - 4.至少精通一款MCU，熟练操作寄存器
 - 5.1年以上工作经验
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-MCU软件开发工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-MCU软件开发工程师-来自GitHub">立即申请</a>

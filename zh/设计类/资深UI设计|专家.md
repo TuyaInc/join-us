@@ -17,4 +17,4 @@
 - 5、有手绘、3D能力及活动H5设计能力的有加分。
 - 注：请上传作品链接或者上传作品附件，谢谢！
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-资深UI设计/专家>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-资深UI设计/专家-来自GitHub">立即申请</a>

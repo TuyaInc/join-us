@@ -15,4 +15,4 @@
 - 3、熟悉《公司法》《劳动法》《劳动合同法》等HR行政相关法律法规；
 - 4、性格积极阳光，具有较强的目标感和拿结果的能力，具备较强的自驱力与敬业度，具有良好的团队合作能力。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-分公司HR行政负责人>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-分公司HR行政负责人-来自GitHub">立即申请</a>

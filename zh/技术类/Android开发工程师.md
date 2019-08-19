@@ -21,4 +21,4 @@
 - 3）熟练运用算法和数据结构；
 - 4）有性能优化项目经验。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-Android开发工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-Android开发工程师-来自GitHub">立即申请</a>

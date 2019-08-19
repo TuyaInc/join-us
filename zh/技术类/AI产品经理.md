@@ -19,4 +19,4 @@
 - 7、有至少2年以上的项目管理经验;
 - 8、有很强的沟通和协调能力,&nbsp;工作细致，要求标准高,&nbsp;自我驱动力强。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-AI产品经理>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-AI产品经理-来自GitHub">立即申请</a>

@@ -18,4 +18,4 @@
 - 5、有数据库管控平台(研发/设计/使用)经验优化。
 - DevOps团队是一支研发团队,专注于涂鸦全球化IoT平台自动化运维和平台建设，涂鸦在全球拥有多个数据中心(同时部署于阿里云、腾讯云、AWS、Azure),通过技术平台支持全球服务部署、发布、审计、维护。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-DBA 高级工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-DBA 高级工程师-来自GitHub">立即申请</a>

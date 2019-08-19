@@ -17,4 +17,4 @@
 -  4、较好的分析思维、沟通协调能力、团队合作能力。
 -  5、全日制本科及以上学历，能适应不定期出差。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-SQE工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-SQE工程师-来自GitHub">立即申请</a>

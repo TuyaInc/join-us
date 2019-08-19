@@ -18,4 +18,4 @@
 - 4、熟悉劳动法，能够熟练依据法律法规给予管理者和员工有效的建议并解决问题；
 - 5、具备自驱力、逻辑思考和数据分析能力、沟通能力，具备项目经验以及项目管理能力，能协调各种资源，通过高效协同达成成果。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-HRBP/HRG专家>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-HRBP/HRG专家-来自GitHub">立即申请</a>

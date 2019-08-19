@@ -13,4 +13,4 @@
 - 2.&nbsp;能熟练使用办公软件，擅长文案编辑或PS尤其加分；
 - 3.&nbsp;大三、大四保研、研二阶段学生，每周保证实习4个工作日以上（全勤最佳），且连续出勤3个月以上。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-HR实习生-深圳>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-HR实习生-深圳-来自GitHub">立即申请</a>

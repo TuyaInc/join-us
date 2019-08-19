@@ -19,4 +19,4 @@
 - 6.&nbsp;有深度模型训练，图像分类、物体检测与分割、视频分析、计算机图形学等相关工作经历。
 - 7.&nbsp;有做过成熟人脸识别及活体检测项目&nbsp;或&nbsp;科研经历者（例如顶级会议第一作者）优先。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-AI 架构师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-AI 架构师-来自GitHub">立即申请</a>

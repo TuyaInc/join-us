@@ -15,4 +15,4 @@
 - 4.具有良好的技术钻研能力，能够深入底层解决技术难题；
 - 5.有强烈的责任心和团队精神，善于沟通和合作；
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-iOS开发专家 >立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-iOS开发专家 -来自GitHub">立即申请</a>

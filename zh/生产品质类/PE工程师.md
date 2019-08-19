@@ -19,4 +19,4 @@
 - 5、会使用PADS、Cadence、CAD或solidworks等设计软件者优先考虑；
 - 6、工作认真负责，有强烈的事业心、上进心，具有良好的团队合作精神
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-PE工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-PE工程师-来自GitHub">立即申请</a>

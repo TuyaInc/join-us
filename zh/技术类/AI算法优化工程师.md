@@ -15,4 +15,4 @@
 - 5. 熟悉相关平台的SIMD编程技术，Cache层级优化，了解OpenMP或者pthread等多线程并⾏计算技术等。
 - 6. 具备较强的团队协作能⼒、沟通能⼒、责任意识。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-AI算法优化工程师>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-AI算法优化工程师-来自GitHub">立即申请</a>

@@ -16,4 +16,4 @@
 - 5.具有强烈的责任心、上进心及团队合作精；
 - 6.英语4级以上，可以日常及书面交流。
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-FAE工程师（硬件方向）>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-FAE工程师（硬件方向）-来自GitHub">立即申请</a>

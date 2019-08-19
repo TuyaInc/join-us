@@ -15,4 +15,4 @@
 - 5. 熟练使用 git、github、linux 等工具;
 - 6. 有良好的编码习惯, 能够编写清晰, 易于维护的代码
 ### 申请方式
-- <a href="mailto:hr@tuya.com" title=yourName-资深前端开发工程师（React Native）>立即申请</a>
+- <a href="mailto:hr@tuya.com?subject=求职简历-资深前端开发工程师（React Native）-来自GitHub">立即申请</a>
