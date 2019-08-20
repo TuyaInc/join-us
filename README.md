@@ -6,6 +6,13 @@
 
 - [点击立即了解](https://www.tuya.com/about)
 
+## 急聘岗位
+
+- [前端工程师](./zh/技术类/前端开发.md)
+- [前端工程师（React Native）-深圳](./zh/技术类/前端工程师（React Native） -深圳.md)
+- [前端工程师（微信小程序）](./zh/技术类/前端工程师（微信小程序）.md)
+- [前端技术专家](./zh/技术类/前端技术专家.md)
+
 ## 热聘职位
 
 - [产品类](./zh/技术类/)
@@ -23,7 +30,7 @@
 
 ### 外部推荐：奖励感人，招人我们是认真的
 
-![外推奖励](http://static1.tuyacn.com/static/ty-lib/others/zp/waitu.jpg)
+![外推奖励](http://static1.tuyacn.com/static/ty-lib/others/zp/waitui.jpg)
 
 ### 邮箱渠道：有 github 标志，优先进入 HR 视野
 
