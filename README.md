@@ -33,7 +33,7 @@
 
 ### 邮箱渠道：有 github 标志，优先进入 HR 视野
 
-- To： hr@tuya.com
+- To： bole@tuya.com
 - Title：[Github]姓名-应聘职位名称
 - PS：`技术类`岗位投递简历时建议附带作品介绍或链接
 
