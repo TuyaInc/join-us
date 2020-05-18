@@ -27,10 +27,6 @@
 
 ## 招聘渠道
 
-### 外部推荐：奖励感人，招人我们是认真的
-
-![外推奖励](http://static1.tuyacn.com/static/ty-lib/others/zp/waitui.png?1)
-
 ### 邮箱渠道：有 github 标志，优先进入 HR 视野
 
 - To： bole@tuya.com
